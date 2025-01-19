@@ -30,3 +30,4 @@
 ✔ Improve UI - 2026-04-22T08:14:52.138Z
 ✔ Add validation - 2026-04-22T08:14:55.309Z
 ✔ Update README - 2026-04-22T08:14:57.015Z
+✔ Refactor logic - 2026-04-22T08:14:59.735Z
