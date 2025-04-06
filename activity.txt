@@ -147,3 +147,4 @@
 ✔ Update README - 2026-04-22T08:19:18.196Z
 ✔ Refactor logic - 2026-04-22T08:19:20.643Z
 ✔ Enhance UX - 2026-04-22T08:19:22.551Z
+✔ Add validation - 2026-04-22T08:19:24.329Z
