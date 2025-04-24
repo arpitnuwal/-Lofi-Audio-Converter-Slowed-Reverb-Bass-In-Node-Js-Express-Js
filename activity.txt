@@ -174,3 +174,4 @@
 ✔ Add validation - 2026-04-22T08:20:21.494Z
 ✔ Update README - 2026-04-22T08:20:22.978Z
 ✔ Add validation - 2026-04-22T08:20:25.902Z
+✔ Refactor logic - 2026-04-22T08:20:27.339Z
