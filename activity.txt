@@ -2,3 +2,4 @@
 ✔ Add validation - 2026-04-22T08:51:22.923Z
 ✔ Add validation - 2026-04-22T08:51:24.520Z
 ✔ Optimize API - 2026-04-22T08:51:27.663Z
+✔ Update README - 2026-04-22T08:51:29.362Z
