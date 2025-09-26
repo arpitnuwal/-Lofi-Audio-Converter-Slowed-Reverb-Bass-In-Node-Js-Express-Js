@@ -309,3 +309,4 @@
 ✔ Refactor logic - 2026-04-22T07:30:59.642Z
 ✔ Update README - 2026-04-22T07:31:01.417Z
 ✔ Enhance UX - 2026-04-22T07:31:03.790Z
+✔ Add validation - 2026-04-22T07:31:05.867Z
