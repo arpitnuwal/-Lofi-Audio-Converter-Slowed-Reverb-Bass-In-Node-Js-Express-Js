@@ -320,3 +320,4 @@
 ✔ Fix auth bug - 2026-04-22T07:31:25.483Z
 ✔ Enhance UX - 2026-04-22T07:31:27.087Z
 ✔ Enhance UX - 2026-04-22T07:31:29.603Z
+✔ Refactor logic - 2026-04-22T07:31:32.148Z
