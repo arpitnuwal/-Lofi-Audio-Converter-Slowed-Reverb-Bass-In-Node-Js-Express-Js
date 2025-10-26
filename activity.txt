@@ -356,3 +356,4 @@
 ✔ Improve UI - 2026-04-22T07:32:41.538Z
 ✔ Fix auth bug - 2026-04-22T07:32:44.182Z
 ✔ Update README - 2026-04-22T07:32:47.106Z
+✔ Add validation - 2026-04-22T07:32:50.056Z
