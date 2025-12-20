@@ -28,3 +28,4 @@
 ✔ Update README - 2026-04-22T07:13:36.710Z
 ✔ Refactor logic - 2026-04-22T07:13:38.593Z
 ✔ Refactor logic - 2026-04-22T07:13:39.837Z
+✔ Add validation - 2026-04-22T07:13:42.577Z
