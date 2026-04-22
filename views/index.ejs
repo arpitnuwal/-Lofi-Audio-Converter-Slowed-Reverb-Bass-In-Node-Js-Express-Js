@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lofi Converter</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #1e1e2f, #3a0ca3);
+      color: white;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.08);
+      padding: 40px;
+      border-radius: 20px;
+      backdrop-filter: blur(15px);
+      box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+      text-align: center;
+      width: 350px;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+
+    input[type="file"] {
+      background: #222;
+      color: white;
+      padding: 10px;
+      border-radius: 10px;
+      border: none;
+      width: 100%;
+      cursor: pointer;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 10px;
+      background: linear-gradient(45deg, #ff006e, #8338ec);
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+      width: 100%;
+    }
+
+    button:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 15px rgba(255, 0, 110, 0.6);
+    }
+
+    .icon {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+
+    .footer {
+      margin-top: 15px;
+      font-size: 12px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+    <div class="icon">🎧</div>
+    <h2>Slowed + Reverb Lofi</h2>
+
+    <form action="/convert" method="POST" enctype="multipart/form-data">
+      <input type="file" name="audio" required />
+      <button type="submit">Convert to Lofi</button>
+    </form>
+
+    <div class="footer">
+      Made with ❤️ Arpit Nuwal
+    </div>
+  </div>
+
+</body>
+</html>
